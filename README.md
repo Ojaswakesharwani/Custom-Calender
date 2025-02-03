@@ -1,4 +1,7 @@
 𝐂𝐚𝐥𝐞𝐧𝐝𝐚𝐫 𝐀𝐩𝐩 𝐰𝐢𝐭𝐡 𝐂𝐮𝐬𝐭𝐨𝐦 𝐃𝐚𝐭𝐞 𝐏𝐢𝐜𝐤𝐞𝐫
+
+Video demo of earth rotation 3d effect: https://github.com/user-attachments/assets/87ac1330-9540-4263-b6d0-5f76da936362
+
 An interactive Android calendar app with a custom date picker, featuring smooth animation effects and sound for a better user experience.
 
 Features
