@@ -2,6 +2,9 @@
 
 Video demo of earth rotation 3d effect: https://github.com/user-attachments/assets/87ac1330-9540-4263-b6d0-5f76da936362
 
+Video demo of normal rotation effect: https://github.com/user-attachments/assets/9b70dc55-0f08-4521-aca9-6c7810f816d3
+
+
 An interactive Android calendar app with a custom date picker, featuring smooth animation effects and sound for a better user experience.
 
 Features
